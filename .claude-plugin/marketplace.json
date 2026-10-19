@@ -1,5 +1,5 @@
 {
-  "name": "alliance-tools",
+  "name": "codesauce-tools",
   "owner": { "name": "RDK995" },
   "description": "Claude Code plugins used on codesauce.",
   "plugins": [

@@ -1,10 +1,10 @@
 {
   "extraKnownMarketplaces": {
-    "alliance-tools": {
+    "codesauce-tools": {
       "source": { "source": "github", "repo": "RDK995/codesauce" }
     }
   },
   "enabledPlugins": {
-    "harness@alliance-tools": true
+    "harness@codesauce-tools": true
   }
 }
