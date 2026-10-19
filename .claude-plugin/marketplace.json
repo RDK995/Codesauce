@@ -1,0 +1,12 @@
+{
+  "name": "alliance-tools",
+  "owner": { "name": "RDK995" },
+  "description": "Claude Code plugins used on codesauce.",
+  "plugins": [
+    {
+      "name": "harness",
+      "description": "Agentic coding harness: roast requirements, architect, scope an MVP, plan milestones, implement with fresh-context review.",
+      "source": { "source": "github", "repo": "RDK995/AgenticCodingHarness" }
+    }
+  ]
+}
