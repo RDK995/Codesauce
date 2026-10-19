@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "codesauce-tools": {
+      "source": { "source": "github", "repo": "RDK995/codesauce" }
+    }
+  },
+  "enabledPlugins": {
+    "harness@codesauce-tools": true
+  }
+}
